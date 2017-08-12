@@ -1,0 +1,156 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.0367 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 3.0367 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0014 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.0014 
+            xmax = 1.1111 
+            text = "K" 
+        intervals [3]:
+            xmin = 1.1111 
+            xmax = 1.2009 
+            text = "AH1" 
+        intervals [4]:
+            xmin = 1.2009 
+            xmax = 1.2922852297888014 
+            text = "K" 
+        intervals [5]:
+            xmin = 1.2922852297888014 
+            xmax = 1.3694619439573557 
+            text = "AH1" 
+        intervals [6]:
+            xmin = 1.3694619439573557 
+            xmax = 1.4703 
+            text = "K" 
+        intervals [7]:
+            xmin = 1.4703 
+            xmax = 1.563223967416398 
+            text = "AH1" 
+        intervals [8]:
+            xmin = 1.563223967416398 
+            xmax = 1.6698 
+            text = "K" 
+        intervals [9]:
+            xmin = 1.6698 
+            xmax = 1.7364180459463652 
+            text = "AH1" 
+        intervals [10]:
+            xmin = 1.7364180459463652 
+            xmax = 1.8395 
+            text = "K" 
+        intervals [11]:
+            xmin = 1.8395 
+            xmax = 1.9592 
+            text = "AH1" 
+        intervals [12]:
+            xmin = 1.9592 
+            xmax = 2.0434120785622882 
+            text = "K" 
+        intervals [13]:
+            xmin = 2.0434120785622882 
+            xmax = 2.1288 
+            text = "AH1" 
+        intervals [14]:
+            xmin = 2.1288 
+            xmax = 2.2695002894936236 
+            text = "K" 
+        intervals [15]:
+            xmin = 2.2695002894936236 
+            xmax = 2.3583 
+            text = "AH1" 
+        intervals [16]:
+            xmin = 2.3583 
+            xmax = 2.4481 
+            text = "K" 
+        intervals [17]:
+            xmin = 2.4481 
+            xmax = 2.5478 
+            text = "AH1" 
+        intervals [18]:
+            xmin = 2.5478 
+            xmax = 2.6576 
+            text = "K" 
+        intervals [19]:
+            xmin = 2.6576 
+            xmax = 2.7574 
+            text = "AH1" 
+        intervals [20]:
+            xmin = 2.7574 
+            xmax = 2.884626763557185 
+            text = "K" 
+        intervals [21]:
+            xmin = 2.884626763557185 
+            xmax = 2.927 
+            text = "AH1" 
+        intervals [22]:
+            xmin = 2.927 
+            xmax = 3.0367 
+            text = "K" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 3.0367 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0014 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.0014 
+            xmax = 1.2009 
+            text = "KUH" 
+        intervals [3]:
+            xmin = 1.2009 
+            xmax = 1.3694619439573557 
+            text = "KUH" 
+        intervals [4]:
+            xmin = 1.3694619439573557 
+            xmax = 1.563223967416398 
+            text = "KUH" 
+        intervals [5]:
+            xmin = 1.563223967416398 
+            xmax = 1.7364180459463652 
+            text = "KUH" 
+        intervals [6]:
+            xmin = 1.7364180459463652 
+            xmax = 1.9592 
+            text = "KUH" 
+        intervals [7]:
+            xmin = 1.9592 
+            xmax = 2.1288 
+            text = "KUH" 
+        intervals [8]:
+            xmin = 2.1288 
+            xmax = 2.3583 
+            text = "KUH" 
+        intervals [9]:
+            xmin = 2.3583 
+            xmax = 2.5478 
+            text = "KUH" 
+        intervals [10]:
+            xmin = 2.5478 
+            xmax = 2.7574 
+            text = "KUH" 
+        intervals [11]:
+            xmin = 2.7574 
+            xmax = 2.927 
+            text = "KUH" 
+        intervals [12]:
+            xmin = 2.927 
+            xmax = 3.0367 
+            text = "KUH" 

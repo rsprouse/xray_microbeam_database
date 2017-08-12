@@ -1,0 +1,220 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0125 
+xmax = 2.9957 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0.0125 
+        xmax = 2.9957 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0.0125 
+            xmax = 0.5612 
+            text = "sp" 
+        intervals [2]:
+            xmin = 0.5612 
+            xmax = 0.671 
+            text = "T" 
+        intervals [3]:
+            xmin = 0.671 
+            xmax = 0.7308 
+            text = "AH1" 
+        intervals [4]:
+            xmin = 0.7308 
+            xmax = 0.8206 
+            text = "T" 
+        intervals [5]:
+            xmin = 0.8206 
+            xmax = 0.8705 
+            text = "AH1" 
+        intervals [6]:
+            xmin = 0.8705 
+            xmax = 0.9703 
+            text = "T" 
+        intervals [7]:
+            xmin = 0.9703 
+            xmax = 1.0202 
+            text = "AH1" 
+        intervals [8]:
+            xmin = 1.0202 
+            xmax = 1.0668158301889548 
+            text = "T" 
+        intervals [9]:
+            xmin = 1.0668158301889548 
+            xmax = 1.1350303717251016 
+            text = "AH1" 
+        intervals [10]:
+            xmin = 1.1350303717251016 
+            xmax = 1.2197 
+            text = "T" 
+        intervals [11]:
+            xmin = 1.2197 
+            xmax = 1.2995 
+            text = "AH1" 
+        intervals [12]:
+            xmin = 1.2995 
+            xmax = 1.3794 
+            text = "T" 
+        intervals [13]:
+            xmin = 1.3794 
+            xmax = 1.4392 
+            text = "AH1" 
+        intervals [14]:
+            xmin = 1.4392 
+            xmax = 1.5400503079827688 
+            text = "T" 
+        intervals [15]:
+            xmin = 1.5400503079827688 
+            xmax = 1.5866867800709357 
+            text = "AH1" 
+        intervals [16]:
+            xmin = 1.5866867800709357 
+            xmax = 1.6687 
+            text = "T" 
+        intervals [17]:
+            xmin = 1.6687 
+            xmax = 1.7585 
+            text = "AH1" 
+        intervals [18]:
+            xmin = 1.7585 
+            xmax = 1.8283 
+            text = "T" 
+        intervals [19]:
+            xmin = 1.8283 
+            xmax = 1.8982 
+            text = "AH1" 
+        intervals [20]:
+            xmin = 1.8982 
+            xmax = 1.988 
+            text = "T" 
+        intervals [21]:
+            xmin = 1.988 
+            xmax = 2.0478 
+            text = "AH1" 
+        intervals [22]:
+            xmin = 2.0478 
+            xmax = 2.1576 
+            text = "T" 
+        intervals [23]:
+            xmin = 2.1576 
+            xmax = 2.2186274546631948 
+            text = "AH1" 
+        intervals [24]:
+            xmin = 2.2186274546631948 
+            xmax = 2.2972829960390744 
+            text = "T" 
+        intervals [25]:
+            xmin = 2.2972829960390744 
+            xmax = 2.3671 
+            text = "AH1" 
+        intervals [26]:
+            xmin = 2.3671 
+            xmax = 2.4569 
+            text = "T" 
+        intervals [27]:
+            xmin = 2.4569 
+            xmax = 2.5367 
+            text = "AH1" 
+        intervals [28]:
+            xmin = 2.5367 
+            xmax = 2.6161873742075485 
+            text = "T" 
+        intervals [29]:
+            xmin = 2.6161873742075485 
+            xmax = 2.6656081124953217 
+            text = "AH1" 
+        intervals [30]:
+            xmin = 2.6656081124953217 
+            xmax = 2.7533125212877083 
+            text = "T" 
+        intervals [31]:
+            xmin = 2.7533125212877083 
+            xmax = 2.8166545943044317 
+            text = "AH1" 
+        intervals [32]:
+            xmin = 2.8166545943044317 
+            xmax = 2.8959 
+            text = "T" 
+        intervals [33]:
+            xmin = 2.8959 
+            xmax = 2.9957 
+            text = "AH1" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0.0125 
+        xmax = 2.9957 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0.0125 
+            xmax = 0.5612 
+            text = "sp" 
+        intervals [2]:
+            xmin = 0.5612 
+            xmax = 0.7308 
+            text = "TUH" 
+        intervals [3]:
+            xmin = 0.7308 
+            xmax = 0.8705 
+            text = "TUH" 
+        intervals [4]:
+            xmin = 0.8705 
+            xmax = 1.0202 
+            text = "TUH" 
+        intervals [5]:
+            xmin = 1.0202 
+            xmax = 1.1350303717251016 
+            text = "TUH" 
+        intervals [6]:
+            xmin = 1.1350303717251016 
+            xmax = 1.2995 
+            text = "TUH" 
+        intervals [7]:
+            xmin = 1.2995 
+            xmax = 1.4392 
+            text = "TUH" 
+        intervals [8]:
+            xmin = 1.4392 
+            xmax = 1.5866867800709357 
+            text = "TUH" 
+        intervals [9]:
+            xmin = 1.5866867800709357 
+            xmax = 1.7585 
+            text = "TUH" 
+        intervals [10]:
+            xmin = 1.7585 
+            xmax = 1.8982 
+            text = "TUH" 
+        intervals [11]:
+            xmin = 1.8982 
+            xmax = 2.0478 
+            text = "TUH" 
+        intervals [12]:
+            xmin = 2.0478 
+            xmax = 2.2186274546631948 
+            text = "TUH" 
+        intervals [13]:
+            xmin = 2.2186274546631948 
+            xmax = 2.3671 
+            text = "TUH" 
+        intervals [14]:
+            xmin = 2.3671 
+            xmax = 2.5367 
+            text = "TUH" 
+        intervals [15]:
+            xmin = 2.5367 
+            xmax = 2.6656081124953217 
+            text = "TUH" 
+        intervals [16]:
+            xmin = 2.6656081124953217 
+            xmax = 2.8166545943044317 
+            text = "TUH" 
+        intervals [17]:
+            xmin = 2.8166545943044317 
+            xmax = 2.9957 
+            text = "TUH" 

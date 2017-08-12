@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.6086 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 6.6086 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4005 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.4005 
+            xmax = 1.8195 
+            text = "ER0" 
+        intervals [3]:
+            xmin = 1.8195 
+            xmax = 2.3683 
+            text = "sp" 
+        intervals [4]:
+            xmin = 2.3683 
+            xmax = 2.742312605161317 
+            text = "AH1" 
+        intervals [5]:
+            xmin = 2.742312605161317 
+            xmax = 3.4159 
+            text = "sp" 
+        intervals [6]:
+            xmin = 3.4159 
+            xmax = 3.7751 
+            text = "UW1" 
+        intervals [7]:
+            xmin = 3.7751 
+            xmax = 4.4635 
+            text = "sp" 
+        intervals [8]:
+            xmin = 4.4635 
+            xmax = 4.8726 
+            text = "EY1" 
+        intervals [9]:
+            xmin = 4.8726 
+            xmax = 5.4712 
+            text = "sp" 
+        intervals [10]:
+            xmin = 5.4712 
+            xmax = 5.962180432675565 
+            text = "AO1" 
+        intervals [11]:
+            xmin = 5.962180432675565 
+            xmax = 6.6086 
+            text = "sp" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 6.6086 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4005 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.4005 
+            xmax = 1.8195 
+            text = "ER" 
+        intervals [3]:
+            xmin = 1.8195 
+            xmax = 2.3683 
+            text = "sp" 
+        intervals [4]:
+            xmin = 2.3683 
+            xmax = 2.742312605161317 
+            text = "UH" 
+        intervals [5]:
+            xmin = 2.742312605161317 
+            xmax = 3.4159 
+            text = "sp" 
+        intervals [6]:
+            xmin = 3.4159 
+            xmax = 3.7751 
+            text = "UU" 
+        intervals [7]:
+            xmin = 3.7751 
+            xmax = 4.4635 
+            text = "sp" 
+        intervals [8]:
+            xmin = 4.4635 
+            xmax = 4.8726 
+            text = "AY" 
+        intervals [9]:
+            xmin = 4.8726 
+            xmax = 5.4712 
+            text = "sp" 
+        intervals [10]:
+            xmin = 5.4712 
+            xmax = 5.962180432675565 
+            text = "AW" 
+        intervals [11]:
+            xmin = 5.962180432675565 
+            xmax = 6.6086 
+            text = "sp" 

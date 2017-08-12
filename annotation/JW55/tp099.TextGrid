@@ -1,0 +1,216 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.0875 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 7.0875 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0912 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.0912 
+            xmax = 1.2608 
+            text = "W" 
+        intervals [3]:
+            xmin = 1.2608 
+            xmax = 1.3905 
+            text = "AE1" 
+        intervals [4]:
+            xmin = 1.3905 
+            xmax = 1.5002 
+            text = "K" 
+        intervals [5]:
+            xmin = 1.5002 
+            xmax = 1.6866934793278414 
+            text = "S" 
+        intervals [6]:
+            xmin = 1.6866934793278414 
+            xmax = 2.0717204351195164 
+            text = "sp" 
+        intervals [7]:
+            xmin = 2.0717204351195164 
+            xmax = 2.1851558960743027 
+            text = "AO1" 
+        intervals [8]:
+            xmin = 2.1851558960743027 
+            xmax = 2.2459248930143665 
+            text = "R" 
+        intervals [9]:
+            xmin = 2.2459248930143665 
+            xmax = 2.3084 
+            text = "D" 
+        intervals [10]:
+            xmin = 2.3084 
+            xmax = 2.5878 
+            text = "ER0" 
+        intervals [11]:
+            xmin = 2.5878 
+            xmax = 2.9469 
+            text = "sp" 
+        intervals [12]:
+            xmin = 2.9469 
+            xmax = 3.0667 
+            text = "K" 
+        intervals [13]:
+            xmin = 3.0667 
+            xmax = 3.2862 
+            text = "OW1" 
+        intervals [14]:
+            xmin = 3.2862 
+            xmax = 3.3896129523237217 
+            text = "T" 
+        intervals [15]:
+            xmin = 3.3896129523237217 
+            xmax = 3.8549 
+            text = "sp" 
+        intervals [16]:
+            xmin = 3.8549 
+            xmax = 3.9796727493912307 
+            text = "R" 
+        intervals [17]:
+            xmin = 3.9796727493912307 
+            xmax = 4.1741 
+            text = "AY1" 
+        intervals [18]:
+            xmin = 4.1741 
+            xmax = 4.3338 
+            text = "T" 
+        intervals [19]:
+            xmin = 4.3338 
+            xmax = 4.734469105912576 
+            text = "sp" 
+        intervals [20]:
+            xmin = 4.734469105912576 
+            xmax = 4.8925 
+            text = "P" 
+        intervals [21]:
+            xmin = 4.8925 
+            xmax = 4.958639182952122 
+            text = "R" 
+        intervals [22]:
+            xmin = 4.958639182952122 
+            xmax = 5.0621 
+            text = "AA1" 
+        intervals [23]:
+            xmin = 5.0621 
+            xmax = 5.117772606130886 
+            text = "B" 
+        intervals [24]:
+            xmin = 5.117772606130886 
+            xmax = 5.16908864786283 
+            text = "L" 
+        intervals [25]:
+            xmin = 5.16908864786283 
+            xmax = 5.221755111745615 
+            text = "AH0" 
+        intervals [26]:
+            xmin = 5.221755111745615 
+            xmax = 5.39805605631561 
+            text = "M" 
+        intervals [27]:
+            xmin = 5.39805605631561 
+            xmax = 5.643601564830705 
+            text = "sp" 
+        intervals [28]:
+            xmin = 5.643601564830705 
+            xmax = 5.8503 
+            text = "F" 
+        intervals [29]:
+            xmin = 5.8503 
+            xmax = 6.033873566423649 
+            text = "ER1" 
+        intervals [30]:
+            xmin = 6.033873566423649 
+            xmax = 6.167565359356872 
+            text = "S" 
+        intervals [31]:
+            xmin = 6.167565359356872 
+            xmax = 6.2893 
+            text = "T" 
+        intervals [32]:
+            xmin = 6.2893 
+            xmax = 6.6186 
+            text = "sp" 
+        intervals [33]:
+            xmin = 6.6186 
+            xmax = 6.73064170802127 
+            text = "M" 
+        intervals [34]:
+            xmin = 6.73064170802127 
+            xmax = 6.868 
+            text = "AH1" 
+        intervals [35]:
+            xmin = 6.868 
+            xmax = 7.0875 
+            text = "CH" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 7.0875 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0912 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.0912 
+            xmax = 1.6866934793278414 
+            text = "WAX" 
+        intervals [3]:
+            xmin = 1.6866934793278414 
+            xmax = 2.0717204351195164 
+            text = "sp" 
+        intervals [4]:
+            xmin = 2.0717204351195164 
+            xmax = 2.5878 
+            text = "ORDER" 
+        intervals [5]:
+            xmin = 2.5878 
+            xmax = 2.9469 
+            text = "sp" 
+        intervals [6]:
+            xmin = 2.9469 
+            xmax = 3.3896129523237217 
+            text = "COAT" 
+        intervals [7]:
+            xmin = 3.3896129523237217 
+            xmax = 3.8549 
+            text = "sp" 
+        intervals [8]:
+            xmin = 3.8549 
+            xmax = 4.3338 
+            text = "RIGHT" 
+        intervals [9]:
+            xmin = 4.3338 
+            xmax = 4.734469105912576 
+            text = "sp" 
+        intervals [10]:
+            xmin = 4.734469105912576 
+            xmax = 5.39805605631561 
+            text = "PROBLEM" 
+        intervals [11]:
+            xmin = 5.39805605631561 
+            xmax = 5.643601564830705 
+            text = "sp" 
+        intervals [12]:
+            xmin = 5.643601564830705 
+            xmax = 6.2893 
+            text = "FIRST" 
+        intervals [13]:
+            xmin = 6.2893 
+            xmax = 6.6186 
+            text = "sp" 
+        intervals [14]:
+            xmin = 6.6186 
+            xmax = 7.0875 
+            text = "MUCH" 

@@ -1,0 +1,224 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.0875 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 7.0875 
+        intervals: size = 36 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1954350771015683 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.1954350771015683 
+            xmax = 1.3107 
+            text = "W" 
+        intervals [3]:
+            xmin = 1.3107 
+            xmax = 1.5658835418654145 
+            text = "AE1" 
+        intervals [4]:
+            xmin = 1.5658835418654145 
+            xmax = 1.6698 
+            text = "K" 
+        intervals [5]:
+            xmin = 1.6698 
+            xmax = 1.8360729928104829 
+            text = "S" 
+        intervals [6]:
+            xmin = 1.8360729928104829 
+            xmax = 1.9902933169462171 
+            text = "sp" 
+        intervals [7]:
+            xmin = 1.9902933169462171 
+            xmax = 2.1188 
+            text = "AO1" 
+        intervals [8]:
+            xmin = 2.1188 
+            xmax = 2.1587 
+            text = "R" 
+        intervals [9]:
+            xmin = 2.1587 
+            xmax = 2.2286 
+            text = "D" 
+        intervals [10]:
+            xmin = 2.2286 
+            xmax = 2.478 
+            text = "ER0" 
+        intervals [11]:
+            xmin = 2.478 
+            xmax = 2.6875 
+            text = "sp" 
+        intervals [12]:
+            xmin = 2.6875 
+            xmax = 2.8073 
+            text = "K" 
+        intervals [13]:
+            xmin = 2.8073 
+            xmax = 3.0068 
+            text = "OW1" 
+        intervals [14]:
+            xmin = 3.0068 
+            xmax = 3.19791333997309 
+            text = "T" 
+        intervals [15]:
+            xmin = 3.19791333997309 
+            xmax = 3.356 
+            text = "sp" 
+        intervals [16]:
+            xmin = 3.356 
+            xmax = 3.5356 
+            text = "R" 
+        intervals [17]:
+            xmin = 3.5356 
+            xmax = 3.7451 
+            text = "AY1" 
+        intervals [18]:
+            xmin = 3.7451 
+            xmax = 3.8919021057522816 
+            text = "T" 
+        intervals [19]:
+            xmin = 3.8919021057522816 
+            xmax = 4.2141 
+            text = "sp" 
+        intervals [20]:
+            xmin = 4.2141 
+            xmax = 4.3138 
+            text = "P" 
+        intervals [21]:
+            xmin = 4.3138 
+            xmax = 4.388330574697434 
+            text = "R" 
+        intervals [22]:
+            xmin = 4.388330574697434 
+            xmax = 4.5134 
+            text = "AA1" 
+        intervals [23]:
+            xmin = 4.5134 
+            xmax = 4.5832 
+            text = "B" 
+        intervals [24]:
+            xmin = 4.5832 
+            xmax = 4.6431 
+            text = "L" 
+        intervals [25]:
+            xmin = 4.6431 
+            xmax = 4.700960966431613 
+            text = "AH0" 
+        intervals [26]:
+            xmin = 4.700960966431613 
+            xmax = 4.8626 
+            text = "M" 
+        intervals [27]:
+            xmin = 4.8626 
+            xmax = 5.0621 
+            text = "sp" 
+        intervals [28]:
+            xmin = 5.0621 
+            xmax = 5.132 
+            text = "F" 
+        intervals [29]:
+            xmin = 5.132 
+            xmax = 5.2916 
+            text = "ER1" 
+        intervals [30]:
+            xmin = 5.2916 
+            xmax = 5.43295680881386 
+            text = "S" 
+        intervals [31]:
+            xmin = 5.43295680881386 
+            xmax = 5.5111 
+            text = "T" 
+        intervals [32]:
+            xmin = 5.5111 
+            xmax = 5.7905 
+            text = "sp" 
+        intervals [33]:
+            xmin = 5.7905 
+            xmax = 5.9102 
+            text = "M" 
+        intervals [34]:
+            xmin = 5.9102 
+            xmax = 6.0499 
+            text = "AH1" 
+        intervals [35]:
+            xmin = 6.0499 
+            xmax = 6.2195 
+            text = "CH" 
+        intervals [36]:
+            xmin = 6.2195 
+            xmax = 7.0875 
+            text = "sp" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 7.0875 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1954350771015683 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.1954350771015683 
+            xmax = 1.8360729928104829 
+            text = "WAX" 
+        intervals [3]:
+            xmin = 1.8360729928104829 
+            xmax = 1.9902933169462171 
+            text = "sp" 
+        intervals [4]:
+            xmin = 1.9902933169462171 
+            xmax = 2.478 
+            text = "ORDER" 
+        intervals [5]:
+            xmin = 2.478 
+            xmax = 2.6875 
+            text = "sp" 
+        intervals [6]:
+            xmin = 2.6875 
+            xmax = 3.19791333997309 
+            text = "COAT" 
+        intervals [7]:
+            xmin = 3.19791333997309 
+            xmax = 3.356 
+            text = "sp" 
+        intervals [8]:
+            xmin = 3.356 
+            xmax = 3.8919021057522816 
+            text = "RIGHT" 
+        intervals [9]:
+            xmin = 3.8919021057522816 
+            xmax = 4.2141 
+            text = "sp" 
+        intervals [10]:
+            xmin = 4.2141 
+            xmax = 4.8626 
+            text = "PROBLEM" 
+        intervals [11]:
+            xmin = 4.8626 
+            xmax = 5.0621 
+            text = "sp" 
+        intervals [12]:
+            xmin = 5.0621 
+            xmax = 5.5111 
+            text = "FIRST" 
+        intervals [13]:
+            xmin = 5.5111 
+            xmax = 5.7905 
+            text = "sp" 
+        intervals [14]:
+            xmin = 5.7905 
+            xmax = 6.2195 
+            text = "MUCH" 
+        intervals [15]:
+            xmin = 6.2195 
+            xmax = 7.0875 
+            text = "sp" 

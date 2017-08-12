@@ -1,0 +1,392 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.1306 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 10.1306 
+        intervals: size = 67 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5125 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5125 
+            xmax = 0.9752235170504513 
+            text = "sp" 
+        intervals [3]:
+            xmin = 0.9752235170504513 
+            xmax = 1.1119388949784974 
+            text = "S" 
+        intervals [4]:
+            xmin = 1.1119388949784974 
+            xmax = 1.1575106876211794 
+            text = "IH1" 
+        intervals [5]:
+            xmin = 1.1575106876211794 
+            xmax = 1.2198231387856628 
+            text = "K" 
+        intervals [6]:
+            xmin = 1.2198231387856628 
+            xmax = 1.3044564679792152 
+            text = "S" 
+        intervals [7]:
+            xmin = 1.3044564679792152 
+            xmax = 1.3732791752355105 
+            text = "F" 
+        intervals [8]:
+            xmin = 1.3732791752355105 
+            xmax = 1.556496382390783 
+            text = "AY1" 
+        intervals [9]:
+            xmin = 1.556496382390783 
+            xmax = 1.6003939540044614 
+            text = "V" 
+        intervals [10]:
+            xmin = 1.6003939540044614 
+            xmax = 1.778960978237011 
+            text = "EY1" 
+        intervals [11]:
+            xmin = 1.778960978237011 
+            xmax = 1.8496437586623955 
+            text = "T" 
+        intervals [12]:
+            xmin = 1.8496437586623955 
+            xmax = 1.9575280024695612 
+            text = "T" 
+        intervals [13]:
+            xmin = 1.9575280024695612 
+            xmax = 2.0635521731076376 
+            text = "UW1" 
+        intervals [14]:
+            xmin = 2.0635521731076376 
+            xmax = 2.225378538818386 
+            text = "T" 
+        intervals [15]:
+            xmin = 2.225378538818386 
+            xmax = 2.3711912756676177 
+            text = "UW1" 
+        intervals [16]:
+            xmin = 2.3711912756676177 
+            xmax = 2.4958161779965846 
+            text = "S" 
+        intervals [17]:
+            xmin = 2.4958161779965846 
+            xmax = 2.570219104760147 
+            text = "IH1" 
+        intervals [18]:
+            xmin = 2.570219104760147 
+            xmax = 2.631601519340086 
+            text = "K" 
+        intervals [19]:
+            xmin = 2.631601519340086 
+            xmax = 2.736492646469358 
+            text = "S" 
+        intervals [20]:
+            xmin = 2.736492646469358 
+            xmax = 2.8108955732329206 
+            text = "N" 
+        intervals [21]:
+            xmin = 2.8108955732329206 
+            xmax = 3.0926966583499134 
+            text = "AY1" 
+        intervals [22]:
+            xmin = 3.0926966583499134 
+            xmax = 3.2128572463316742 
+            text = "N" 
+        intervals [23]:
+            xmin = 3.2128572463316742 
+            xmax = 3.5241657384334686 
+            text = "sp" 
+        intervals [24]:
+            xmin = 3.5241657384334686 
+            xmax = 3.637630201747901 
+            text = "S" 
+        intervals [25]:
+            xmin = 3.637630201747901 
+            xmax = 3.7064529090041964 
+            text = "EH1" 
+        intervals [26]:
+            xmin = 3.7064529090041964 
+            xmax = 3.7483045553087004 
+            text = "V" 
+        intervals [27]:
+            xmin = 3.7483045553087004 
+            xmax = 3.7836459455213927 
+            text = "AH0" 
+        intervals [28]:
+            xmin = 3.7836459455213927 
+            xmax = 3.8859499698212905 
+            text = "N" 
+        intervals [29]:
+            xmin = 3.8859499698212905 
+            xmax = 3.9715133355993872 
+            text = "T" 
+        intervals [30]:
+            xmin = 3.9715133355993872 
+            xmax = 4.143367096815867 
+            text = "UW1" 
+        intervals [31]:
+            xmin = 4.143367096815867 
+            xmax = 4.249391267453944 
+            text = "W" 
+        intervals [32]:
+            xmin = 4.249391267453944 
+            xmax = 4.334024596647495 
+            text = "AH1" 
+        intervals [33]:
+            xmin = 4.334024596647495 
+            xmax = 4.421448035594682 
+            text = "N" 
+        intervals [34]:
+            xmin = 4.421448035594682 
+            xmax = 4.528638873254482 
+            text = "S" 
+        intervals [35]:
+            xmin = 4.528638873254482 
+            xmax = 4.594671470757143 
+            text = "EH1" 
+        intervals [36]:
+            xmin = 4.594671470757143 
+            xmax = 4.650473665829815 
+            text = "V" 
+        intervals [37]:
+            xmin = 4.650473665829815 
+            xmax = 4.6951154218879525 
+            text = "AH0" 
+        intervals [38]:
+            xmin = 4.6951154218879525 
+            xmax = 4.763938129144248 
+            text = "N" 
+        intervals [39]:
+            xmin = 4.763938129144248 
+            xmax = 4.8426 
+            text = "F" 
+        intervals [40]:
+            xmin = 4.8426 
+            xmax = 4.948372755052311 
+            text = "AO1" 
+        intervals [41]:
+            xmin = 4.948372755052311 
+            xmax = 5.03021597449223 
+            text = "R" 
+        intervals [42]:
+            xmin = 5.03021597449223 
+            xmax = 5.162281169497553 
+            text = "T" 
+        intervals [43]:
+            xmin = 5.162281169497553 
+            xmax = 5.306233817981797 
+            text = "UW1" 
+        intervals [44]:
+            xmin = 5.306233817981797 
+            xmax = 5.454109634924377 
+            text = "F" 
+        intervals [45]:
+            xmin = 5.454109634924377 
+            xmax = 5.604183658935356 
+            text = "AO1" 
+        intervals [46]:
+            xmin = 5.604183658935356 
+            xmax = 5.788330902675173 
+            text = "R" 
+        intervals [47]:
+            xmin = 5.788330902675173 
+            xmax = 6.252063875984241 
+            text = "sp" 
+        intervals [48]:
+            xmin = 6.252063875984241 
+            xmax = 6.341347388100516 
+            text = "T" 
+        intervals [49]:
+            xmin = 6.341347388100516 
+            xmax = 6.455589627741 
+            text = "UW1" 
+        intervals [50]:
+            xmin = 6.455589627741 
+            xmax = 6.5746343105627 
+            text = "TH" 
+        intervals [51]:
+            xmin = 6.5746343105627 
+            xmax = 6.648107200741718 
+            text = "R" 
+        intervals [52]:
+            xmin = 6.648107200741718 
+            xmax = 6.753201334795249 
+            text = "IY1" 
+        intervals [53]:
+            xmin = 6.753201334795249 
+            xmax = 6.872043010692689 
+            text = "W" 
+        intervals [54]:
+            xmin = 6.872043010692689 
+            xmax = 6.953886230132608 
+            text = "AH1" 
+        intervals [55]:
+            xmin = 6.953886230132608 
+            xmax = 7.066420656862496 
+            text = "N" 
+        intervals [56]:
+            xmin = 7.066420656862496 
+            xmax = 7.158494278732404 
+            text = "F" 
+        intervals [57]:
+            xmin = 7.158494278732404 
+            xmax = 7.315907086892311 
+            text = "AY1" 
+        intervals [58]:
+            xmin = 7.315907086892311 
+            xmax = 7.37914957464134 
+            text = "V" 
+        intervals [59]:
+            xmin = 7.37914957464134 
+            xmax = 7.487033818448505 
+            text = "F" 
+        intervals [60]:
+            xmin = 7.487033818448505 
+            xmax = 7.5930098519408835 
+            text = "AO1" 
+        intervals [61]:
+            xmin = 7.5930098519408835 
+            xmax = 7.700894095748049 
+            text = "R" 
+        intervals [62]:
+            xmin = 7.700894095748049 
+            xmax = 7.914802510193291 
+            text = "EY1" 
+        intervals [63]:
+            xmin = 7.914802510193291 
+            xmax = 8.006182730981134 
+            text = "T" 
+        intervals [64]:
+            xmin = 8.006182730981134 
+            xmax = 8.087095913836507 
+            text = "TH" 
+        intervals [65]:
+            xmin = 8.087095913836507 
+            xmax = 8.202420450320028 
+            text = "R" 
+        intervals [66]:
+            xmin = 8.202420450320028 
+            xmax = 8.420979047687991 
+            text = "IY1" 
+        intervals [67]:
+            xmin = 8.420979047687991 
+            xmax = 10.1306 
+            text = "sp" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 10.1306 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5125 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5125 
+            xmax = 0.9752235170504513 
+            text = "sp" 
+        intervals [3]:
+            xmin = 0.9752235170504513 
+            xmax = 1.3044564679792152 
+            text = "SIX" 
+        intervals [4]:
+            xmin = 1.3044564679792152 
+            xmax = 1.6003939540044614 
+            text = "FIVE" 
+        intervals [5]:
+            xmin = 1.6003939540044614 
+            xmax = 1.8496437586623955 
+            text = "EIGHT" 
+        intervals [6]:
+            xmin = 1.8496437586623955 
+            xmax = 2.0635521731076376 
+            text = "TWO" 
+        intervals [7]:
+            xmin = 2.0635521731076376 
+            xmax = 2.3711912756676177 
+            text = "TWO" 
+        intervals [8]:
+            xmin = 2.3711912756676177 
+            xmax = 2.736492646469358 
+            text = "SIX" 
+        intervals [9]:
+            xmin = 2.736492646469358 
+            xmax = 3.2128572463316742 
+            text = "NINE" 
+        intervals [10]:
+            xmin = 3.2128572463316742 
+            xmax = 3.5241657384334686 
+            text = "sp" 
+        intervals [11]:
+            xmin = 3.5241657384334686 
+            xmax = 3.8859499698212905 
+            text = "SEVEN" 
+        intervals [12]:
+            xmin = 3.8859499698212905 
+            xmax = 4.143367096815867 
+            text = "TWO" 
+        intervals [13]:
+            xmin = 4.143367096815867 
+            xmax = 4.421448035594682 
+            text = "ONE" 
+        intervals [14]:
+            xmin = 4.421448035594682 
+            xmax = 4.763938129144248 
+            text = "SEVEN" 
+        intervals [15]:
+            xmin = 4.763938129144248 
+            xmax = 5.03021597449223 
+            text = "FOUR" 
+        intervals [16]:
+            xmin = 5.03021597449223 
+            xmax = 5.306233817981797 
+            text = "TWO" 
+        intervals [17]:
+            xmin = 5.306233817981797 
+            xmax = 5.788330902675173 
+            text = "FOUR" 
+        intervals [18]:
+            xmin = 5.788330902675173 
+            xmax = 6.252063875984241 
+            text = "sp" 
+        intervals [19]:
+            xmin = 6.252063875984241 
+            xmax = 6.455589627741 
+            text = "TWO" 
+        intervals [20]:
+            xmin = 6.455589627741 
+            xmax = 6.753201334795249 
+            text = "THREE" 
+        intervals [21]:
+            xmin = 6.753201334795249 
+            xmax = 7.066420656862496 
+            text = "ONE" 
+        intervals [22]:
+            xmin = 7.066420656862496 
+            xmax = 7.37914957464134 
+            text = "FIVE" 
+        intervals [23]:
+            xmin = 7.37914957464134 
+            xmax = 7.700894095748049 
+            text = "FOUR" 
+        intervals [24]:
+            xmin = 7.700894095748049 
+            xmax = 8.006182730981134 
+            text = "EIGHT" 
+        intervals [25]:
+            xmin = 8.006182730981134 
+            xmax = 8.420979047687991 
+            text = "THREE" 
+        intervals [26]:
+            xmin = 8.420979047687991 
+            xmax = 10.1306 
+            text = "sp" 

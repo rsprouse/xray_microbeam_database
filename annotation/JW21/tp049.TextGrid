@@ -1,0 +1,232 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0124716553288 
+xmax = 7.59523809524 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0.0124716553288 
+        xmax = 7.59523809524 
+        intervals: size = 38 
+        intervals [1]:
+            xmin = 0.0124716553288 
+            xmax = 1.07006792744 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.07006802721 
+            xmax = 1.250742461142134 
+            text = "R" 
+        intervals [3]:
+            xmin = 1.250742461142134 
+            xmax = 1.60884353741 
+            text = "OW1" 
+        intervals [4]:
+            xmin = 1.60884353741 
+            xmax = 1.84829931973 
+            text = "sp" 
+        intervals [5]:
+            xmin = 1.84829931973 
+            xmax = 2.0179138322 
+            text = "AO1" 
+        intervals [6]:
+            xmin = 2.0179138322 
+            xmax = 2.07777777778 
+            text = "R" 
+        intervals [7]:
+            xmin = 2.07777777778 
+            xmax = 2.15759637188 
+            text = "D" 
+        intervals [8]:
+            xmin = 2.15759637188 
+            xmax = 2.40702947846 
+            text = "ER0" 
+        intervals [9]:
+            xmin = 2.40702947846 
+            xmax = 2.5494194398021643 
+            text = "sp" 
+        intervals [10]:
+            xmin = 2.5494194398021643 
+            xmax = 2.698038829190049 
+            text = "P" 
+        intervals [11]:
+            xmin = 2.698038829190049 
+            xmax = 2.7509940612806925 
+            text = "R" 
+        intervals [12]:
+            xmin = 2.7509940612806925 
+            xmax = 2.90589569161 
+            text = "AA1" 
+        intervals [13]:
+            xmin = 2.90589569161 
+            xmax = 3.0137319103771323 
+            text = "B" 
+        intervals [14]:
+            xmin = 3.0137319103771323 
+            xmax = 3.096887997296544 
+            text = "L" 
+        intervals [15]:
+            xmin = 3.096887997296544 
+            xmax = 3.17528344671 
+            text = "AH0" 
+        intervals [16]:
+            xmin = 3.17528344671 
+            xmax = 3.32494331066 
+            text = "M" 
+        intervals [17]:
+            xmin = 3.32494331066 
+            xmax = 3.6641723356 
+            text = "sp" 
+        intervals [18]:
+            xmin = 3.6641723356 
+            xmax = 3.80385487528 
+            text = "K" 
+        intervals [19]:
+            xmin = 3.80385487528 
+            xmax = 3.88367346939 
+            text = "AH1" 
+        intervals [20]:
+            xmin = 3.88367346939 
+            xmax = 3.97346938776 
+            text = "N" 
+        intervals [21]:
+            xmin = 3.97346938776 
+            xmax = 4.09908390246284 
+            text = "T" 
+        intervals [22]:
+            xmin = 4.09908390246284 
+            xmax = 4.180470708983875 
+            text = "R" 
+        intervals [23]:
+            xmin = 4.180470708983875 
+            xmax = 4.3925170068 
+            text = "IY0" 
+        intervals [24]:
+            xmin = 4.3925170068 
+            xmax = 4.5820861678 
+            text = "sp" 
+        intervals [25]:
+            xmin = 4.5820861678 
+            xmax = 4.728073730849968 
+            text = "T" 
+        intervals [26]:
+            xmin = 4.728073730849968 
+            xmax = 5.02108843537 
+            text = "OW1" 
+        intervals [27]:
+            xmin = 5.02108843537 
+            xmax = 5.120861678 
+            text = "L" 
+        intervals [28]:
+            xmin = 5.120861678 
+            xmax = 5.19070294785 
+            text = "D" 
+        intervals [29]:
+            xmin = 5.19070294785 
+            xmax = 5.552953359548947 
+            text = "sp" 
+        intervals [30]:
+            xmin = 5.552953359548947 
+            xmax = 5.66961451247 
+            text = "D" 
+        intervals [31]:
+            xmin = 5.66961451247 
+            xmax = 5.879138322 
+            text = "AO1" 
+        intervals [32]:
+            xmin = 5.879138322 
+            xmax = 5.97891156463 
+            text = "R" 
+        intervals [33]:
+            xmin = 5.97891156463 
+            xmax = 6.15850340136 
+            text = "M" 
+        intervals [34]:
+            xmin = 6.15850340136 
+            xmax = 6.39795918367 
+            text = "sp" 
+        intervals [35]:
+            xmin = 6.39795918367 
+            xmax = 6.54761904762 
+            text = "K" 
+        intervals [36]:
+            xmin = 6.54761904762 
+            xmax = 6.76712018141 
+            text = "OW1" 
+        intervals [37]:
+            xmin = 6.76712018141 
+            xmax = 6.93673469388 
+            text = "T" 
+        intervals [38]:
+            xmin = 6.93673469388 
+            xmax = 7.59523809524 
+            text = "sp" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0.0124716553288 
+        xmax = 7.59523809524 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0.0124716553288 
+            xmax = 1.07006802721 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.07006802721 
+            xmax = 1.60884353741 
+            text = "ROW" 
+        intervals [3]:
+            xmin = 1.60884353741 
+            xmax = 1.84829931973 
+            text = "sp" 
+        intervals [4]:
+            xmin = 1.84829931973 
+            xmax = 2.40702947846 
+            text = "ORDER" 
+        intervals [5]:
+            xmin = 2.40702947846 
+            xmax = 2.5494194398021643 
+            text = "sp" 
+        intervals [6]:
+            xmin = 2.5494194398021643 
+            xmax = 3.32494331066 
+            text = "PROBLEM" 
+        intervals [7]:
+            xmin = 3.32494331066 
+            xmax = 3.6641723356 
+            text = "sp" 
+        intervals [8]:
+            xmin = 3.6641723356 
+            xmax = 4.3925170068 
+            text = "COUNTRY" 
+        intervals [9]:
+            xmin = 4.3925170068 
+            xmax = 4.5820861678 
+            text = "sp" 
+        intervals [10]:
+            xmin = 4.5820861678 
+            xmax = 5.19070294785 
+            text = "TOLD" 
+        intervals [11]:
+            xmin = 5.19070294785 
+            xmax = 5.552953359548947 
+            text = "sp" 
+        intervals [12]:
+            xmin = 5.552953359548947 
+            xmax = 6.15850340136 
+            text = "DORM" 
+        intervals [13]:
+            xmin = 6.15850340136 
+            xmax = 6.39795918367 
+            text = "sp" 
+        intervals [14]:
+            xmin = 6.39795918367 
+            xmax = 6.93673469388 
+            text = "COAT" 
+        intervals [15]:
+            xmin = 6.93673469388 
+            xmax = 7.59523809524 
+            text = "sp" 

@@ -1,0 +1,164 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.9909 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 9.9909 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.722 
+            text = "sp" 
+        intervals [2]:
+            xmin = 0.722 
+            xmax = 1.0413 
+            text = "S" 
+        intervals [3]:
+            xmin = 1.0413 
+            xmax = 1.61 
+            text = "AA1" 
+        intervals [4]:
+            xmin = 1.61 
+            xmax = 1.9692 
+            text = "S" 
+        intervals [5]:
+            xmin = 1.9692 
+            xmax = 2.5279 
+            text = "AA1" 
+        intervals [6]:
+            xmin = 2.5279 
+            xmax = 2.917 
+            text = "S" 
+        intervals [7]:
+            xmin = 2.917 
+            xmax = 3.4857 
+            text = "AA1" 
+        intervals [8]:
+            xmin = 3.4857 
+            xmax = 3.8249 
+            text = "S" 
+        intervals [9]:
+            xmin = 3.8249 
+            xmax = 4.234 
+            text = "AA1" 
+        intervals [10]:
+            xmin = 4.234 
+            xmax = 4.5234 
+            text = "sp" 
+        intervals [11]:
+            xmin = 4.5234 
+            xmax = 4.8027 
+            text = "S" 
+        intervals [12]:
+            xmin = 4.8027 
+            xmax = 5.396818364888502 
+            text = "AA1" 
+        intervals [13]:
+            xmin = 5.396818364888502 
+            xmax = 5.739867960965951 
+            text = "S" 
+        intervals [14]:
+            xmin = 5.739867960965951 
+            xmax = 6.2993 
+            text = "AA1" 
+        intervals [15]:
+            xmin = 6.2993 
+            xmax = 6.6785 
+            text = "S" 
+        intervals [16]:
+            xmin = 6.6785 
+            xmax = 7.090886913436441 
+            text = "AA1" 
+        intervals [17]:
+            xmin = 7.090886913436441 
+            xmax = 7.3968 
+            text = "sp" 
+        intervals [18]:
+            xmin = 7.3968 
+            xmax = 7.6463 
+            text = "S" 
+        intervals [19]:
+            xmin = 7.6463 
+            xmax = 8.195 
+            text = "AA1" 
+        intervals [20]:
+            xmin = 8.195 
+            xmax = 8.5642 
+            text = "S" 
+        intervals [21]:
+            xmin = 8.5642 
+            xmax = 9.1229 
+            text = "AA1" 
+        intervals [22]:
+            xmin = 9.1229 
+            xmax = 9.522 
+            text = "S" 
+        intervals [23]:
+            xmin = 9.522 
+            xmax = 9.9909 
+            text = "AA1" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 9.9909 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.722 
+            text = "sp" 
+        intervals [2]:
+            xmin = 0.722 
+            xmax = 1.61 
+            text = "SA" 
+        intervals [3]:
+            xmin = 1.61 
+            xmax = 2.5279 
+            text = "SA" 
+        intervals [4]:
+            xmin = 2.5279 
+            xmax = 3.4857 
+            text = "SA" 
+        intervals [5]:
+            xmin = 3.4857 
+            xmax = 4.234 
+            text = "SA" 
+        intervals [6]:
+            xmin = 4.234 
+            xmax = 4.5234 
+            text = "sp" 
+        intervals [7]:
+            xmin = 4.5234 
+            xmax = 5.396818364888502 
+            text = "SA" 
+        intervals [8]:
+            xmin = 5.396818364888502 
+            xmax = 6.2993 
+            text = "SA" 
+        intervals [9]:
+            xmin = 6.2993 
+            xmax = 7.090886913436441 
+            text = "SA" 
+        intervals [10]:
+            xmin = 7.090886913436441 
+            xmax = 7.3968 
+            text = "sp" 
+        intervals [11]:
+            xmin = 7.3968 
+            xmax = 8.195 
+            text = "SA" 
+        intervals [12]:
+            xmin = 8.195 
+            xmax = 9.1229 
+            text = "SA" 
+        intervals [13]:
+            xmin = 9.1229 
+            xmax = 9.9909 
+            text = "SA" 

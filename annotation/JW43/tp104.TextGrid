@@ -1,0 +1,132 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.0367 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 3.0367 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4208296879749454 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.4208296879749454 
+            xmax = 1.5302 
+            text = "K" 
+        intervals [3]:
+            xmin = 1.5302 
+            xmax = 1.61 
+            text = "AH1" 
+        intervals [4]:
+            xmin = 1.61 
+            xmax = 1.7197 
+            text = "K" 
+        intervals [5]:
+            xmin = 1.7197 
+            xmax = 1.7896 
+            text = "AH1" 
+        intervals [6]:
+            xmin = 1.7896 
+            xmax = 1.8993 
+            text = "K" 
+        intervals [7]:
+            xmin = 1.8993 
+            xmax = 1.9791 
+            text = "AH1" 
+        intervals [8]:
+            xmin = 1.9791 
+            xmax = 2.0989 
+            text = "K" 
+        intervals [9]:
+            xmin = 2.0989 
+            xmax = 2.1887 
+            text = "AH1" 
+        intervals [10]:
+            xmin = 2.1887 
+            xmax = 2.2884 
+            text = "K" 
+        intervals [11]:
+            xmin = 2.2884 
+            xmax = 2.3583 
+            text = "AH1" 
+        intervals [12]:
+            xmin = 2.3583 
+            xmax = 2.468 
+            text = "K" 
+        intervals [13]:
+            xmin = 2.468 
+            xmax = 2.5478 
+            text = "AH1" 
+        intervals [14]:
+            xmin = 2.5478 
+            xmax = 2.6585279281435987 
+            text = "K" 
+        intervals [15]:
+            xmin = 2.6585279281435987 
+            xmax = 2.7474 
+            text = "AH1" 
+        intervals [16]:
+            xmin = 2.7474 
+            xmax = 2.8549996173892347 
+            text = "K" 
+        intervals [17]:
+            xmin = 2.8549996173892347 
+            xmax = 2.937 
+            text = "AH1" 
+        intervals [18]:
+            xmin = 2.937 
+            xmax = 3.0367 
+            text = "K" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 3.0367 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4208296879749454 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.4208296879749454 
+            xmax = 1.61 
+            text = "KUH" 
+        intervals [3]:
+            xmin = 1.61 
+            xmax = 1.7896 
+            text = "KUH" 
+        intervals [4]:
+            xmin = 1.7896 
+            xmax = 1.9791 
+            text = "KUH" 
+        intervals [5]:
+            xmin = 1.9791 
+            xmax = 2.1887 
+            text = "KUH" 
+        intervals [6]:
+            xmin = 2.1887 
+            xmax = 2.3583 
+            text = "KUH" 
+        intervals [7]:
+            xmin = 2.3583 
+            xmax = 2.5478 
+            text = "KUH" 
+        intervals [8]:
+            xmin = 2.5478 
+            xmax = 2.7474 
+            text = "KUH" 
+        intervals [9]:
+            xmin = 2.7474 
+            xmax = 2.937 
+            text = "KUH" 
+        intervals [10]:
+            xmin = 2.937 
+            xmax = 3.0367 
+            text = "KUH" 

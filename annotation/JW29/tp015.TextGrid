@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0125 
+xmax = 9.9599 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0.0125 
+        xmax = 9.9599 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0.0125 
+            xmax = 1.1698 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.1698 
+            xmax = 1.4692 
+            text = "IY1" 
+        intervals [3]:
+            xmin = 1.4692 
+            xmax = 1.8383 
+            text = "UW1" 
+        intervals [4]:
+            xmin = 1.8383 
+            xmax = 2.1576 
+            text = "sp" 
+        intervals [5]:
+            xmin = 2.1576 
+            xmax = 2.437 
+            text = "IY1" 
+        intervals [6]:
+            xmin = 2.437 
+            xmax = 2.8261 
+            text = "AH1" 
+        intervals [7]:
+            xmin = 2.8261 
+            xmax = 3.3249 
+            text = "sp" 
+        intervals [8]:
+            xmin = 3.3249 
+            xmax = 3.5444 
+            text = "UW1" 
+        intervals [9]:
+            xmin = 3.5444 
+            xmax = 3.9435 
+            text = "AH1" 
+        intervals [10]:
+            xmin = 3.9435 
+            xmax = 4.4424 
+            text = "sp" 
+        intervals [11]:
+            xmin = 4.4424 
+            xmax = 4.8116 
+            text = "AA1" 
+        intervals [12]:
+            xmin = 4.8116 
+            xmax = 5.1408 
+            text = "UW1" 
+        intervals [13]:
+            xmin = 5.1408 
+            xmax = 5.5898 
+            text = "sp" 
+        intervals [14]:
+            xmin = 5.5898 
+            xmax = 5.8392 
+            text = "AA1" 
+        intervals [15]:
+            xmin = 5.8392 
+            xmax = 6.2583 
+            text = "IY1" 
+        intervals [16]:
+            xmin = 6.2583 
+            xmax = 8.014630929343237 
+            text = "sp" 
+        intervals [17]:
+            xmin = 8.014630929343237 
+            xmax = 8.2737 
+            text = "UW1" 
+        intervals [18]:
+            xmin = 8.2737 
+            xmax = 8.583 
+            text = "IY1" 
+        intervals [19]:
+            xmin = 8.583 
+            xmax = 9.9599 
+            text = "sp" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0.0125 
+        xmax = 9.9599 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0.0125 
+            xmax = 1.1698 
+            text = "sp" 
+        intervals [2]:
+            xmin = 1.1698 
+            xmax = 1.8383 
+            text = "[IU]" 
+        intervals [3]:
+            xmin = 1.8383 
+            xmax = 2.1576 
+            text = "sp" 
+        intervals [4]:
+            xmin = 2.1576 
+            xmax = 2.8261 
+            text = "[IA]" 
+        intervals [5]:
+            xmin = 2.8261 
+            xmax = 3.3249 
+            text = "sp" 
+        intervals [6]:
+            xmin = 3.3249 
+            xmax = 3.9435 
+            text = "[UA]" 
+        intervals [7]:
+            xmin = 3.9435 
+            xmax = 4.4424 
+            text = "sp" 
+        intervals [8]:
+            xmin = 4.4424 
+            xmax = 5.1408 
+            text = "[AU]" 
+        intervals [9]:
+            xmin = 5.1408 
+            xmax = 5.5898 
+            text = "sp" 
+        intervals [10]:
+            xmin = 5.5898 
+            xmax = 6.2583 
+            text = "[AI]" 
+        intervals [11]:
+            xmin = 6.2583 
+            xmax = 8.014630929343237 
+            text = "sp" 
+        intervals [12]:
+            xmin = 8.014630929343237 
+            xmax = 8.583 
+            text = "[UI]" 
+        intervals [13]:
+            xmin = 8.583 
+            xmax = 9.9599 
+            text = "sp" 
