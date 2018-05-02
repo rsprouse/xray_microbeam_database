@@ -1,5 +1,5 @@
 # xray_microbeam_database
-Annotations and scripts for use with [University of Wisconsin X-Ray Microbeam Speech Production Database (1994)](https://berkeley.box.com/s/c1erjj8sqtw5sbu6tr8wo0wlmoaf5vyj). 
+Annotations and scripts for use with the [University of Wisconsin X-Ray Microbeam Speech Production Database (1994) dataset](https://berkeley.box.com/v/xray-microbeam-database-data). 
 
 ## Citation for the Wisconsin X-Ray Microbeam Speech Production Database
 
