@@ -18,9 +18,9 @@ An additional two `.csv` files contain all of the labels in all of the textgrids
 
 - `t1`: start time of label
 - `t2`: end time of label
-- `phone` (`all_phones.csv`) / `word' (`all_words.csv`): label text
+- `phone` (`all_phones.csv`) / `word` (`all_words.csv`): label text
 - `speaker`: the speaker of the utterance
-- `uttid`: the utterance identifier portion of the audio filename
-- `rep`: the repetition number for the utterance (found after '_' in the audio filname for values greater than 1)
+- `uttid`: the utterance identifier portion of the audio filename, e.g. 'tp001'
+- `rep`: the repetition number for the utterance (found after underscore ('_') in the audio filname for values greater than 1), e.g. 'tp015_2'
 - `wavpath`: the path to the `.wav` file where the audio corresponding to the phone/word label can be found
 
